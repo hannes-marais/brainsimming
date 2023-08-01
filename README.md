@@ -37,14 +37,21 @@ Throughout the process, Brainstormer 1.0 highlights key speakers and major new k
 
 ## The Torture Chamber
 
-The torture chamber is a custom ChatGPT prompt to design a complex product via:
+The torture chamber is a custom ChatGPT prompt to design a complex product via brainsimming.  The prompt has some unique features:
 
-- ChatGPT 4 based.
 - Brainstorming between Dr. Aircraft, Dr WeatherBalloon, Prof Aeronautics, Dr.PriorArt and Dr MechanicalEngineer.
 - Employs contrastive personalities.
 - Runs simulated experiments.
 - Simulates a long term project.
-- Simulation of continual adversity (Dr Murphy)
+- Simulation of continual adversity (Dr Murphy) to force continual progress.
   
 [>> Designing a weather balloon <<](https://chat.openai.com/share/394a2bb5-0651-49ba-8698-6cb5383fc739)
+
+## The Two Professors
+
+The Two Professors use brainsimming to develop a paper on light pollution. The prompt has a unique feature:
+
+- To ensure the work is on the knowledge frontier, the prompt is forces one prof to update the other on the latest developments in the field.
+
+[>> Two Profs on Light Pollution <<](https://chat.openai.com/share/428235c6-5147-4351-bbe8-9f3c491fcbba)
 
