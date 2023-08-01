@@ -1,4 +1,4 @@
-![Hero image](Firefly brainstorming with AI, brain simulation, personas, AI, creativity 5303.jpg)
+![Hero image](./Firefly brainstorming with AI, brain simulation, personas, AI, creativity 5303.jpg)
 
 
 # AI-Assisted Brainstorming: Revolutionizing the Creative Process
