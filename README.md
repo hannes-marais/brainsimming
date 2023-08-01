@@ -120,3 +120,24 @@ The Two Professors use brainsimming to develop a paper on light pollution. The p
 
 [>> Two Profs on Light Pollution <<](https://chat.openai.com/share/428235c6-5147-4351-bbe8-9f3c491fcbba)
 
+## Getting Help
+
+You might be overwhelmed with all the possibilities of brainsimming. Or not sure where to start with your problem. Or maybe you are interested in how to introduce it in your organization.
+
+If you need help, please reach out to Hannes Marais ([LinkedIn](https://www.linkedin.com/in/hannesmarais/)) for a 1-on-1 pair-innovation session. If I cannot help you, I can possibly refer you to someone else with appropriate expertise.
+
+## Citing
+
+Brainsimming, in the right hands, is an extremely powerful tool. It can explore & research so far and wide in a single session that it can make you look like a super-human innovator to others. 
+
+If do you post about brainsimming, please use [**#brainsimming**](https://twitter.com/search?q=%23brainsimmimh&src=typed_query) so we can find it!  And consider linking to this page; we will return the favor.
+
+I appreciate feedback and success stories from the innovation trenches. Reach out via Twitter [@HiDeeeps](https://twitter.com/HiDeeeps) or [LinkedIn](https://www.linkedin.com/in/hannesmarais/).
+
+## Thanks
+
+We stand on the shoulders of so many others. The inventors, innovators, entrepreneurs, scientists and business people that teach us how to think, our eco-system of startups, incubators and most recently the AI Chatbots and APIs from OpenAI and others. 
+
+Knowledge is power, and knowledge shared is power multiplied. Let's share!
+
+Hannes MARAIS
