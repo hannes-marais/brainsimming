@@ -22,7 +22,11 @@ Brainstormer 1.0 is a facilitator for brainstorming sessions and innovation team
 
 Throughout the process, Brainstormer 1.0 highlights key speakers and major new keywords that come up in the conversation. Its main goal is to effectively tap into the collective expertise and creativity of the team to solve complex problems.
 
-### Case studies
+### The Prompt
+
+[>> Start Brainstorming (1.0) <<](https://chat.openai.com/share/f6134797-8e0f-477f-bdbf-29d3ff15169e)
+
+### Case Studies
 
 - [Designing an underwater habitat](https://chat.openai.com/share/23d9b90d-93dd-469a-be13-01fd2822b3b7)
 
