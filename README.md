@@ -130,7 +130,7 @@ If you need help, please reach out to Hannes Marais ([LinkedIn](https://www.link
 
 Brainsimming, in the right hands, is an extremely powerful tool. It can explore & research so far and wide in a single session that it can make you look like a super-human innovator to others. 
 
-If do you post about brainsimming, please use [**#brainsimming**](https://twitter.com/search?q=%23brainsimmimh&src=typed_query) so we can find it!  And consider linking to this page; we will return the favor.
+If do you post about brainsimming, please use [**#brainsimming**](https://twitter.com/search?q=%23brainsimming&src=typed_query) so we can find it!  And consider linking to this page; we will return the favor.
 
 I appreciate feedback and success stories from the innovation trenches. Reach out via Twitter [@HiDeeeps](https://twitter.com/HiDeeeps) or [LinkedIn](https://www.linkedin.com/in/hannesmarais/).
 
