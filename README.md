@@ -37,12 +37,14 @@ Throughout the process, Brainstormer 1.0 highlights key speakers and major new k
 
 ## The Torture Chamber
 
-The torture chamber is a custom prompt to design a complex product via:
+The torture chamber is a custom ChatGPT prompt to design a complex product via:
 
-- Brainstorming
-- Contrastive personalities
-- Simulated experiments
-- Simulation of continual adversity
+- ChatGPT 4 based.
+- Brainstorming between Dr. Aircraft, Dr WeatherBalloon, Prof Aeronautics, Dr.PriorArt and Dr MechanicalEngineer.
+- Employs contrastive personalities.
+- Runs simulated experiments.
+- Simulates a long term project.
+- Simulation of continual adversity (Dr Murphy)
   
-[Designing a weather balloon](https://chat.openai.com/share/394a2bb5-0651-49ba-8698-6cb5383fc739)
+[>> Designing a weather balloon <<](https://chat.openai.com/share/394a2bb5-0651-49ba-8698-6cb5383fc739)
 
