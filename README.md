@@ -1,8 +1,9 @@
 ![Hero image](Firefly%20brainstorming%20with%20AI,%20brain%20simulation,%20personas,%20AI,%20creativity%205303.jpg)
 
-### MEETUPS
+### MEETUP
 
-> **Brainsimming / AI Brainstorming**, Aug 4 @ 9am Pacific time [Signup](https://lu.ma/jj9zm72a)  brought to you by [Innovation Algebra](https://github.com/hannes-marais/innovation-algebra)
+> **Brainsimming / AI Brainstorming**, Aug 4 @ 9am Pacific time [Signup](https://lu.ma/jj9zm72a)
+> This event is brought to you by the [Innovation Algebra](https://github.com/hannes-marais/innovation-algebra) user group.
 
 # AI-Assisted Brainsimming: Boosting the Creative Process
 
