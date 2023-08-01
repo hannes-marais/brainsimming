@@ -26,6 +26,10 @@ Throughout the process, Brainstormer 1.0 highlights key speakers and major new k
 
 [>> Start Brainstorming (1.0) <<](https://chat.openai.com/share/f6134797-8e0f-477f-bdbf-29d3ff15169e)
 
+### Limitations
+
+- The team is very polite (perhaps too much), talk about their own ideas, but there is limited interaction between team members.
+  
 ### Case Studies
 
 - [Designing an underwater habitat](https://chat.openai.com/share/23d9b90d-93dd-469a-be13-01fd2822b3b7)
