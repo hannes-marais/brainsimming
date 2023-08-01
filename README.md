@@ -34,3 +34,15 @@ Throughout the process, Brainstormer 1.0 highlights key speakers and major new k
 
 - [Designing an underwater habitat](https://chat.openai.com/share/23d9b90d-93dd-469a-be13-01fd2822b3b7)
 
+
+## The Torture Chamber
+
+The torture chamber is a custom prompt to design a complex product via:
+
+- Brainstorming
+- Contrastive personalities
+- Simulated experiments
+- Simulation of continual adversity
+  
+[Designing a weather balloon](https://chat.openai.com/share/394a2bb5-0651-49ba-8698-6cb5383fc739)
+
