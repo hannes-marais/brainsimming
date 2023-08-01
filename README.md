@@ -12,6 +12,16 @@ Moreover, brainsimming offers unprecedented scalability. While traditional brain
 
 In conclusion, brainsimming isn't just an enhancement of traditional brainstorming; it's a revolution. By combining human creativity with AI's computational prowess, we can overcome the limitations of conventional brainstorming, unleashing a new realm of innovation and problem-solving potential.
 
+## Prompt Overviews
+
+All brainsimming happens inside ChatGPT, preferably GPT 4 which is more powerful. To illustrate how brainsimming operates, I have prepared several prompts:
+
+- **Dr. Innovation**: Most powerful prompt with Dr.Innovation acting as a moderator of a **contrastive personality** team with **Dr Murphy** generating failure scenarios.
+- **Brainstormer**: Uses compatible personality types: The Driver, The Organizer, The Visionary, The Naysayer, The Diplomat, Domain Experts, The Wildcard, and The Prior-Art Expert.
+- **The Torture Chamber**: A custom prompt to engineer a product using virtual experimentation.
+- **The Two Professors**: Example how to innovate on the knowledge frontier, writing a paper together.
+
+Scroll down to learn more.
 
 ## Dr. Innovation 1.1 (ChatGPT)
 
