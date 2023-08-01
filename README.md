@@ -33,6 +33,10 @@ Scroll down to learn more.
 
 ## Dr. Innovation 1.1 (ChatGPT)
 
+### The Prompt
+
+[>> Start Dr. Innovation <<](https://chat.openai.com/share/07825681-da9f-484a-87fb-80b52c9ab32f)
+
 ### Introduction
 
 Features of the "Dr. Innovation" ChatGPT prompt and the advantages it provides:
@@ -60,10 +64,6 @@ Advantages:
 4. **Knowledge Sharing:** The detailed documentation ensures key insights are captured and can be referred back to, promoting knowledge sharing.
 
 5. **Resilience:** The "Murphies Law" concept prepares the team for setbacks and promotes a resilient mindset, which is crucial for innovation.
-
-### The Prompt
-
-[>> Start Dr. Innovation <<](https://chat.openai.com/share/07825681-da9f-484a-87fb-80b52c9ab32f)
 
 ### Case Study
 
