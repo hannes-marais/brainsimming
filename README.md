@@ -1,4 +1,4 @@
-![Hero image](brainsimming.jpg)
+![Hero image](brainsimming-new.jpg)
 
 ### MEETUP
 
