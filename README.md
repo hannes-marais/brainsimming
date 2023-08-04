@@ -2,9 +2,7 @@
 
 ### MEETUP
 
-> **Brainsimming / AI Brainstorming**, Aug 4 @ 9am Pacific time [Signup](https://lu.ma/jj9zm72a)
-> Brainsimming is a new technique where multiple AI personas are participating in a virtual brainstorming session. And coming up with ideas! We will cover novel simulation scenarios like the Two Professors, Diplomatic Brainstorming, The Torture Chamber, and data analysis with multiple personas.
-> This event is brought to you by the [Innovation Algebra](https://github.com/hannes-marais/innovation-algebra) user group.
+[Meetup slides and videos](https://github.com/hannes-marais/innovation-algebra/tree/main/meetups)
 
 # AI-Assisted Brainsimming: Boosting the Creative Process
 
